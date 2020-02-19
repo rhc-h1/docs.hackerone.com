@@ -8,6 +8,8 @@ Bounty programs incentivize hackers to test for critical vulnerabilities. You ca
 * A managed program enables HackerOne to design, manage, and support your program from end to end.
 * A hosted program enables you to run and manage your own program.
 
+HackerOne Bounty Products require a paid subscription. The steps below allow you to configure some program details before speaking with a HackerOne Sales representative about the subscription options, setting a bounty budget and other steps required to launch.
+
 If you elect to **Start H1 Bounty**, to get your bounty program up and running, follow these steps:
 
 1. Configure your general settings under **Settings > General**. You can set up these settings:
