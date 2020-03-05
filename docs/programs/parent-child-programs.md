@@ -6,6 +6,8 @@ id: "programs/parent-child-programs"
 
 There are various programs on HackerOne that are associated with a larger organization. Such programs are referred to as parent/child programs, where the parent program is the primary account, and any subsequent child is a subordinate program that is linked to the parent. For instance, an organization (the parent) could be comprised of multiple different companies (the children), each with their own HackerOne program that has their own budget and management. Or, they can also be organizations that have set up multiple programs for each of their products.
 
+Note: Parent/Child Program Hierarchy is available with the HackerOne Enterprise edition.
+
 Child programs still function as their own program in which they still need to:
 * Set their own program settings
 * Invite their own hackers
